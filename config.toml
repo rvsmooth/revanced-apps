@@ -28,4 +28,10 @@ arch = "both"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+
+[Facebook]
+build-mode = "both"
+included-patches = "'Hide story ads' 'Hide Sponsored Stories'"  
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 #
