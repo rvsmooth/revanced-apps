@@ -1,3 +1,4 @@
+Facebook (arm64-v8a): 490.0.0.63.82  
 GooglePhotos (arm64-v8a): 7.24.0.746524260  
 GooglePhotos (arm-v7a): 7.24.0.746524260  
 Music (arm64-v8a): 8.05.51  
