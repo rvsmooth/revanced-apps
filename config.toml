@@ -45,6 +45,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 build-mode = "apk"
 arch = "arm64-v8a"
 included-patches = "'Hide ads'"  
-version = "auto"
+version = "381.2.0.53.84"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-#
